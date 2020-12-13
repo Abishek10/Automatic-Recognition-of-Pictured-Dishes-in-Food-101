@@ -3,4 +3,4 @@ Implementation of classification algorithms for automatically detecting pictured
 
 ![alt text](https://github.com/Abishek10/Automatic-Recognition-of-Pictured-Dishes-in-Food-101/blob/main/food-101.jpg "Food-101")
 
-For running the project - please donwload the script AutomaticFoodClassification.ipynb and change the root directory to the path where you have downloaded the dataset. 
+For running the project - please download the script AutomaticFoodClassification.ipynb and change the root directory to the path where you have downloaded the dataset. 
